@@ -9,11 +9,16 @@ Clean/Dirty Road Classification is a machine learning project that classifies ro
 - Real-time Prediction
 - Result Visualization
 
+## Installation
+Follow these steps to set up the project:
+
 ### Prerequisites
 - Python 3.8+
 - Git
 
-### Clone the Repository
+### Clone the Repository and Install Dependencies
 ```bash
 git clone https://github.com/Darshan2306-DS/Clean_Dirty_Road_classification.git
 cd Clean_Dirty_Road_classification
+pip install -r requirements.txt
+
