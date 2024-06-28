@@ -1,11 +1,19 @@
+# Clean/Dirty Road Classification
 
-# Image Classification Project
+## Introduction
+Clean/Dirty Road Classification is a machine learning project that classifies road images as clean or dirty using deep learning techniques. This project helps identify areas that need maintenance.
 
-This project uses a Convolutional Neural Network (CNN) to classify images as "clean" or "dirty".
+## Features
+- Image Preprocessing
+- Model Training
+- Real-time Prediction
+- Result Visualization
 
-## Installation
+### Prerequisites
+- Python 3.8+
+- Git
 
-To install the required packages, run:
-
-```sh
-pip install -r requirements.txt
+### Clone the Repository
+```bash
+git clone https://github.com/Darshan2306-DS/Clean_Dirty_Road_classification.git
+cd Clean_Dirty_Road_classification
